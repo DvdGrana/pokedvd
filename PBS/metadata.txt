@@ -20,7 +20,7 @@ BattleBack=IndoorB
 MapPosition=0,13,12
 HealingSpot=2,8,8
 [004]
-# Laboratorio de Belu
+# Laboratorio Pokémon
 MapPosition=0,13,12
 ShowArea=false
 [005]
@@ -38,10 +38,10 @@ MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 [008]
-# Casa de Lorena
+# Casa de Belén
 MapPosition=0,13,12
 [009]
-# Centro Pokémon de Ciudad Milanesa
+# Centro Pokémon
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
@@ -52,31 +52,31 @@ MapPosition=0,13,10
 # Instituto Pokémon
 MapPosition=0,14,10
 [012]
-# Cedolan City Condo
+# Club Movimientos
 MapPosition=0,14,10
 [013]
 # Rincón de Juegos
 MapPosition=0,14,10
 [014]
-# Cedolan Dept. 1F
+# Centro Comercial PB
 MapPosition=0,13,10
 [015]
-# Cedolan Dept. 2F
+# Centro Comercial P1
 MapPosition=0,13,10
 [016]
-# Cedolan Dept. 3F
+# Centro Comercial P2
 MapPosition=0,13,10
 [017]
-# Cedolan Dept. 4F
+# Centro Comercial P3
 MapPosition=0,13,10
 [018]
-# Cedolan Dept. 5F
+# Centro Comercial P4
 MapPosition=0,13,10
 [019]
-# Cedolan Dept. Rooftop
+# Centro Comercial Azotea
 MapPosition=0,13,10
 [020]
-# Cedolan Dept. Elevator
+# Centro Comercial Ascensor
 MapPosition=0,13,10
 [021]
 # Ruta 2
@@ -85,17 +85,22 @@ Weather=Rain,50
 MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
+[022]
+# Pueblo Paleta
+Bicycle=true
+Outdoor=true
+ShowArea=true
 [023]
 # Pueblo Lomito
 MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
 [024]
-# Centro Pokémon de Pueblo Lomito
+# Centro Pokémon
 MapPosition=0,15,8
 HealingSpot=23,11,15
 [025]
-# Tienda de Pueblo Lomito
+# Tienda
 MapPosition=0,15,8
 [026]
 # Club Fanáticos Pokémon
@@ -110,11 +115,11 @@ MapPosition=0,16,8
 Outdoor=true
 ShowArea=true
 [029]
-# Natural Park Entrance
+# Entrada Parque Natural
 Bicycle=true
 MapPosition=0,16,8
 [030]
-# Natural Park Pavillion
+# Sala Parque Natural
 MapPosition=0,16,8
 [031]
 # Ruta 3
@@ -186,6 +191,8 @@ Weather=Rain,0
 MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
+[048]
+# Ruta 1
 [049]
 # Cueva Rocosa
 Bicycle=true
@@ -197,7 +204,7 @@ Bicycle=true
 MapPosition=0,16,10
 DarkMap=true
 [051]
-# Dungeon
+# Mazmorra
 Bicycle=true
 Dungeon=true
 MapPosition=0,16,10
@@ -207,49 +214,49 @@ MapPosition=0,17,10
 Outdoor=true
 ShowArea=true
 [053]
-# Centro Pokémon del Frente
+# Centro Pokémon
 MapPosition=0,17,10
 HealingSpot=52,17,14
 [054]
-# Tienda del Frente
+# Tienda
 MapPosition=0,17,10
 [055]
 # Torre Batalla
 MapPosition=0,17,10
 HealingSpot=52,30,10
 [056]
-# Battle Tower arena
+# Campo Torre Batalla
 BattleBack=EliteA
 MapPosition=0,17,10
 [057]
-# Hall Copa Stadium
+# Hall Copa Estadio
 MapPosition=0,17,10
 [058]
 # Palacio Batalla
 MapPosition=0,17,10
 [059]
-# Campo del Palacio Batalla
+# Campo Palacio Batalla
 BattleBack=EliteD
 MapPosition=0,17,10
 [060]
 # Dojo Batalla
 MapPosition=0,17,10
 [061]
-# Campo del Dojo Batalla
+# Campo Dojo Batalla
 BattleBack=EliteB
 MapPosition=0,17,10
 [062]
 # Fábrica Batalla
 MapPosition=0,17,10
 [063]
-# Intro Pasillo de la Fábrica Batalla
+# Intro Pasillo de Fábrica Batalla
 MapPosition=0,17,10
 [064]
-# Campo de la Fábrica Batalla
+# Campo Fábrica Batalla
 BattleBack=EliteC
 MapPosition=0,17,10
 [065]
-# Pasillo de la Fábrica Batalla
+# Pasillo de Fábrica Batalla
 MapPosition=0,17,10
 [066]
 # Zona Safari
