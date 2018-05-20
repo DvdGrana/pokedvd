@@ -36,3 +36,11 @@
 47,East,8,52,West,0
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Ruta 2 (79) - Ciudad Verde (77)
+79,South,0,77,North,6
+# Ruta 1 (48) - Ciudad Verde (77)
+48,North,0,77,South,6
+# Ciudad Plateada (80) - Ruta 2 (79)
+80,South,10,79,North,0
+# Pueblo Paleta (32) - Ruta 1 (48)
+32,North,0,48,South,0
